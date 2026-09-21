@@ -1,3 +1,22 @@
+## 2.0.2 (2026-09-04)
+
+### Bug Fixes
+
+-  **deps**  update jackson monorepo to v2.22.2 ([42432](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/42432bb2420f2e2) renovate[bot])  
+-  **deps**  update dependency org.openapitools:jackson-databind-nullable to v0.2.11 ([7a9d5](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/7a9d5a459359090) renovate[bot])  
+-  **deps**  update jackson monorepo to v2.22.1 ([a39cf](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/a39cf4f69ed23e6) renovate[bot])  
+-  Replace npm workflows with gradle workflows ([80d9f](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/80d9f00a847b92a) Lars Persson)  
+-  **deps**  update dependency se.fk.gradle:gradle-conventions to v1.18.3 ([db494](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/db4940e00f2f5a9) renovate[bot])  
+-  **deps**  update jackson monorepo ([b24e0](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/b24e02fa60b37e3) renovate[bot])  
+-  **deps**  update dependency se.fk.gradle:gradle-conventions to v1.18.2 ([90d46](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/90d4698063d1795) renovate[bot])  
+
+### Dependency updates
+
+- update gradle to v9.7.1 ([1cdac](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/1cdac02d3764e5a) renovate[bot])  
+- pin forsakringskassan/.github action to d1349e6 ([39f76](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/39f76c30296485e) renovate[bot])  
+- update gradle to v9.7.0 ([86bd3](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/86bd365b3a6b916) renovate[bot])  
+- update gradle to v9.6.1 ([b5203](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/b5203878d4745a8) renovate[bot])  
+- update gradle to v9.6.0 ([f62c1](https://github.com/Forsakringskassan/rimfrost-service-arbetsgivare-openapi/commit/f62c104952a2162) renovate[bot])  
 ## 2.0.1 (2026-06-03)
 
 ### Bug Fixes
